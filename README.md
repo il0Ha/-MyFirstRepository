@@ -1,0 +1,2 @@
+# -MyFirstRepository
+трен1
